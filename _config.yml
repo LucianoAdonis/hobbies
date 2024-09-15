@@ -1,0 +1,10 @@
+title: 🚀
+description: Hobbies
+url: "https://lucianoadonis.github.io/hobbies"
+remote_theme: pages-themes/leap-day@v0.2.0
+plugins:
+- jekyll-remote-theme # https://pages.github.com/themes/
+kramdown:
+  toc_levels: 2..3
+
+show_links: true
