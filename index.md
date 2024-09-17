@@ -8,6 +8,9 @@ description: Lazy but organized
 
 ---
 
+## Hobbies
+
+- [Photography](./pages/photography.md)
 
 ### Metal Build Instructions
 
