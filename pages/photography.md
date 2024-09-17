@@ -1,52 +1,55 @@
+---
+layout: custom
+title: Photography
+description: Summary of Knowledge
+---
 
+# Quick Tips
 
+- **Noise is your enemy**: Always be mindful of noise in low-light situations. Reducing ISO or using noise reduction software can help mitigate this issue.
 
-## Quick Tips
+## Bad Light
 
-
-https://www.youtube.com/watch?v=9ro-kLqbhdA&list=PLSi4LsPbjqyEHXhnql8xbODrL4fu1y7Sf&index=5&ab_channel=Simond%27Entremont
-
-- Noise is your enemy
-
-Bad Light
 - [YT - Get GREAT PHOTOS in BAD LIGHT!](https://youtu.be/9ro-kLqbhdA?si=GBJln3Av_8ims3AX)
-  - Light bouncing from objects is what we receive in the camera.
-  - We have three options:
-    - More light into the sensor: doubling the shutter speed
-      - Use a Tripod for taking pictures when you need to stay still.
-        - Static, objects and the like.
-      - Use the timer to avoid the shake of pushing the button.
-      - Any movement of you or the target will cause blur.
-    - Wider Appertures: 
-      - Try to doble it.
-      - Depth of field will be impacted.
-        - You can photo stack with edition to get multiple parts
-    - Light your subject:
-      - 
-
-
+  - Light bouncing from objects is what the camera captures, and it can be tricky in bad lighting conditions.
+  - There are three main ways to improve exposure in low-light:
+    - **More light into the sensor**: This can be done by slowing down the shutter speed.
+      - Use a tripod for stability, especially when capturing static subjects.
+      - Use the timer function to prevent camera shake when pressing the shutter.
+      - Any movement, either by the photographer or the subject, will result in blur.
+    - **Wider apertures**: Open up your aperture to allow more light in (e.g., from f/5.6 to f/2.8).
+      - Be aware that this will affect your depth of field, creating a shallow focus.
+      - You can use focus stacking in post-processing to keep more of the image sharp.
+    - **Light your subject**: Bringing external light sources (flash, reflectors, or portable lighting) can greatly improve photo quality in bad lighting conditions.
 
 ## Resources
- 
-- [dxomark](https://www.dxomark.com/Lenses/): Camera lens rankings.
 
-## Sony Alpha 6700
+- [dxomark](https://www.dxomark.com/Lenses/): Great resource for camera lens rankings and technical reviews.
+- [Ken Rockwell](https://www.kenrockwell.com): Reliable photography reviews, especially for lenses and camera gear.
 
-Advantages, explain what it is the different with dsl (don't recall the name)
+# Sony Alpha 6700
 
-### Setup
+The Sony Alpha 6700 is a mirrorless camera that offers many advantages over traditional DSLR cameras:
+- **Weight and Size**: Smaller and lighter than DSLRs.
+- **Live View**: Real-time exposure and focus through the electronic viewfinder.
+- **Faster Shooting**: Improved autofocus and shooting speed.
 
-How to do the automenu.
+## Setup
 
-Other useful stuff about limitations.
+For automatic settings:
+- **Auto-menu setup**: The Alpha 6700 has customizable menus where you can assign your most-used functions, speeding up your workflow.
+- Limitations: Understanding battery life and overheating in continuous shooting are important considerations for long shoots.
 
-### Lens 
+## Lens Nomenclature
 
-How the nomenclature works and what it means.
+- The lens nomenclature for Sony lenses can be tricky. Here's a quick guide:
+  - **E-mount**: Sony’s lens mount for APS-C and full-frame cameras.
+  - **FE**: Denotes full-frame compatibility.
+  - **T***: Zeiss T* coating for improved image quality by reducing reflections.
 
-Suggested models:
+## Recommended Lenses
 
-- [Zeiss T* FE 55mm f/1.8](https://www.kenrockwell.com/sony/zeiss/55mm-f18.htm)
-  - [Review](https://youtu.be/4MtIRKqhWaY?si=_VlW4AI_ilmS8icd).
-    - It can deal well with bad light.
-    - Minimun distance of 50 CM.
+- **[Zeiss T* FE 55mm f/1.8](https://www.kenrockwell.com/sony/zeiss/55mm-f18.htm)**:
+  - [Review Video](https://youtu.be/4MtIRKqhWaY?si=_VlW4AI_ilmS8icd)
+    - Excellent performance in low-light situations.
+    - Minimum focusing distance of 50 cm.
