@@ -1,8 +1,30 @@
 ---
 layout: custom
 title: Photography
-description: Summary of Knowledge
+description: Pointers so I can quickly remember
 ---
+
+A friend once told me, "photography is objective," and he wasn’t wrong. Investing in a "professional" camera can be a costly adventure. As the joke goes:
+
+> "The best way to make money in photography is by selling your equipment" – [Casually Explained: Photography](https://youtu.be/tJrr3FAtf1U?si=Tzl7-LxpU5wY8BQc)
+
+The type of photography you pursue plays a big role in deciding what camera and lenses are right for you. For anyone just starting, I’d recommend the **Sony A6700**. It strikes a nice balance—offering some guidance for beginners without the complexity or bulk of higher-end models.
+
+Here’s a quick overview of types of photos:
+
+- **Macro**: Ideal for detailed close-ups, like insects or toy photography.
+- **Portraits**: Perfect for capturing people, whether in street photography or formal portraits.
+- **Wildlife**: Best for shooting animals in nature, often requiring a telephoto lens for distant subjects.
+- **Landscape**: Great for capturing wide, scenic views like mountains, oceans, or city skylines. Typically, a wide-angle lens works best for these shots to include as much of the scene as possible.
+
+My general advice would be to avoid spending on new gear unless you're feeling limited by the camera you already have with you all the time—your phone. Honestly, some of my most popular photos were taken on my phone, making up about 50% of them. Personally, I care a lot about being able to zoom in and capture every detail because, for me, blur or lack of detail can break the immersion.
+
+But guess what? Many people don’t even mind! As long as you're happy with the results, that's what really matters.
+
+
+---
+
+<br>
 
 # Quick Tips
 
