@@ -53,3 +53,28 @@ For automatic settings:
   - [Review Video](https://youtu.be/4MtIRKqhWaY?si=_VlW4AI_ilmS8icd)
     - Excellent performance in low-light situations.
     - Minimum focusing distance of 50 cm.
+
+## Lens Maintenance
+
+Keeping your lens clean is key for sharp photos, and it’s easier than you might think:
+
+1. **Start with a blower**: 
+   - Give the lens a good puff of air with a lens blower to get rid of dust. Skip blowing on it with your breath—moisture is the enemy here!
+
+2. **Brush it off**: 
+   - If there's still dust, use a soft brush to gently sweep it away. Be careful not to press too hard.
+
+3. **Wipe with microfiber**: 
+   - Always use a clean microfiber cloth. Wipe in gentle circles from the center out. No need for pressure—let the cloth do the work.
+
+4. **For smudges, use lens cleaner**: 
+   - For fingerprints or greasy spots, dab a bit of lens cleaner onto the cloth (not the lens directly) and gently clean.
+
+5. **Lens wipes work too**: 
+   - Pre-moistened lens wipes are a quick and easy option for when you're on the go.
+
+6. **Avoid household cleaners**: 
+   - Keep the Windex away! Stick to products made for camera lenses.
+
+7. **If you use a filter**: 
+   - Clean your lens filter the same way. It’s easier to replace a scratched filter than a lens.
