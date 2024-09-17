@@ -3,6 +3,9 @@ layout: custom
 title: Photography
 description: Pointers so I can quickly remember
 ---
+<img class="myImg" src="../images/photography/tech-radar-sony-a6700.png" alt="tech-radar-sony-a6700.png" style="border: 1px solid #000; border-radius: 1px; padding: 0px; cursor: pointer;">
+
+---
 
 A friend once told me, "photography is objective," and he wasn’t wrong. Investing in a "professional" camera can be a costly adventure. As the joke goes:
 
