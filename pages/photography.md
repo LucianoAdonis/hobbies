@@ -43,9 +43,30 @@ From my approach, it's basically 20% the camera and 80% the edition.
 
 <br>
 
+## Exposure triangle
+
+When shooting in automode it balances the Exposure, which is the amount of light that it receives. But to be able to adapt and use the best setting, you will need to understand how to keep the balance between the different controls that allow the light to be processed by the camera:
+
+- Aperture: the control over the opening of the lens, the bigger the more light it will have. The downside is that the depth of focus will change. In short, more open, more light, but less things in focus.
+- Shutter Speed: the amount of time that the sensor receives light. More time, more light. The downsize is that taking more time will require a tripod or better pulse, and to shot moving targets you can't take much time or things will look blurry.
+- ISO: the "artificial" increase of the light. It's useful, but it may cause noise in your photos.
+
+Now, all of that information is to keep the balance in your light sensor (0), which means that your photo won't be overexposed or underexposed.
+
+The concept of stops is the one that you get familiar with to take balance it out. In short, if you compensate light by increasing something (+2) from one or both parts of the triangle you will need to decrease accordingly (-2).
+
+- [Exposure Definition: Understanding photography exposure](https://capturetheatlas.com/what-is-exposure-in-photography/)
+- [The Exposure Triangle in Photography Explained for Beginners](https://capturetheatlas.com/exposure-triangle-explained-photography/)
+- [](https://capturetheatlas.com/camera-modes/)
+- [](https://capturetheatlas.com/photography-tips-for-beginners/)
+
+ 
+<br>
+
 ## Bad Light
 
-Mastering challenging lighting conditions is crucial for any photographer. From the video [YT - Get GREAT PHOTOS in BAD LIGHT!](https://youtu.be/9ro-kLqbhdA?si=GBJln3Av_8ims3AX) here is the summary of advises:
+Mastering challenging lighting conditions is crucial for any photographer.
+From the video [YT - Get GREAT PHOTOS in BAD LIGHT!](https://youtu.be/9ro-kLqbhdA?si=GBJln3Av_8ims3AX) here is the summary of the advises:
 
 - **Slow down that shutter**: When light is scarce, let more in by increasing exposure time.
   - Tripod is your best friend: It's essential for sharp images at slow shutter speeds.
